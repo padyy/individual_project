@@ -1,11 +1,11 @@
  #Info  
- -Coding Bootcamp - Assigment 
--Title: Individual project part A
--Last name : Pantelakis
--First Name: Ioannis
--Advisors: Tyrovola Sarantia , Danae Tzoumba
--Python ver:3.9.2
--win: win10 64bit
+Coding Bootcamp - Assigment 
+Title: Individual project part A
+Last name : Pantelakis
+First Name: Ioannis
+Advisors: Tyrovola Sarantia , Danae Tzoumba
+Python ver:3.9.2
+win: win10 64bit
 
 # Manual
 You can start the program by running the module named: ''main.py''. The package includes 3 modules:
